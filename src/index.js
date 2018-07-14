@@ -1,0 +1,1 @@
+console.log('Hastings v1.0.0');

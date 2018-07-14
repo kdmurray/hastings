@@ -1,0 +1,22 @@
+{
+  "name": "hastings",
+  "version": "1.0.0",
+  "description": "Blog engine written in node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blog",
+    "static",
+    "node",
+    "geek",
+    "website",
+    "html"
+  ],
+  "author": "Keith Murray",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
